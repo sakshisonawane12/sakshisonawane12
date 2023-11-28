@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sakshisonawane12
 - 👀 I’m interested in exploring
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on none
--
+
+
 
 <!---
 sakshisonawane12/sakshisonawane12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
