@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sakshisonawane12
 - 👀 I’m interested in exploring
-- 🌱 I’m currently learning programming
-
+- 🌱 Building projects to improve my problem-solving and development skills
 
 
 <!---
