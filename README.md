@@ -29,20 +29,12 @@
 
 
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshisonawane12&theme=radical&hide_border=true"/>
-</p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshisonawane12&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sakshisonawane12&theme=radical&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
@@ -67,10 +59,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshisonawane12&theme=react-dark&hide_border=true"/>
-</p>
 
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐
