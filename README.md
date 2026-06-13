@@ -11,16 +11,9 @@
 
 ## 🌸 About Me
 
-✨ Third Year B.Tech Information Technology Student
+✨  B.Tech Information Technology Student
 
 💻 Passionate about Software Development, AI & Data Science
-
-🌱 Currently Learning
-
-* Data Structures & Algorithms
-* Machine Learning
-* Cloud Computing
-* System Design
 
 🚀 Building projects that solve real-world problems
 
@@ -34,8 +27,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sakshisonawane12&show_icons=true&theme=radical&hide_border=true"/>
+
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshisonawane12&theme=radical&hide_border=true"/>
 </p>
