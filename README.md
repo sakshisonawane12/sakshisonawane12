@@ -3,12 +3,9 @@
 <h3 align="center">💖 B.Tech IT Student | AI/ML Enthusiast | Software Developer🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;DSA+in+Java+💻;AI+%26+Machine+Learning+🤖;Building+Projects+🚀;Learning+Something+New+Every+Day+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Projects+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshisonawane12&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-</p>
 
 ---
 
