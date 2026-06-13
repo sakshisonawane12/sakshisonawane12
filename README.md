@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sakshi Sonawane
 
-<h3 align="center">💖 B.Tech IT Student | AI/ML Enthusiast | DSA in Java | Future Software Engineer 🚀</h3>
+<h3 align="center">💖 B.Tech IT Student | AI/ML Enthusiast | Software Developer🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;DSA+in+Java+💻;AI+%26+Machine+Learning+🤖;Building+Projects+🚀;Learning+Something+New+Every+Day+✨" />
@@ -20,18 +20,13 @@
 
 🌱 Currently Learning
 
-* Data Structures & Algorithms in Java
+* Data Structures & Algorithms
 * Machine Learning
 * Cloud Computing
 * System Design
 
 🚀 Building projects that solve real-world problems
 
-🎯 Target: Software Engineer at a Product-Based Company
-
-☕ Fun Fact: I love turning ideas into reality through code.
-
----
 
 ## 💻 Tech Stack
 
@@ -39,29 +34,6 @@
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css,flutter,firebase,mysql,mongodb,git,github,vscode" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🛡 Marathi Offensive Comment Detection
-
-* Trie Based Detection System
-* Real-Time Comment Moderation
-* Efficient and Scalable Filtering
-
-### 🌾 Food Grain Pest Detection
-
-* IoT Based Smart Grain Storage
-* Sensor Monitoring
-* Pest Prevention System
-
-### 💙 SoulShare
-
-* Flutter Mobile Application
-* Emotional Journaling Platform
-* Motivational Quotes & Sharing
-
----
 
 ## 📊 GitHub Stats
 
@@ -85,27 +57,17 @@
 
 ---
 
-## 🌱 Currently Working On
 
-🔹 DSA for Placements
-
-🔹 Machine Learning Projects
-
-🔹 Open Source Contributions
-
-🔹 Software Development Skills
-
----
 
 ## 🤝 Connect With Me
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sakshisonawane1213">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sakshisonawane12/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -120,12 +82,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshisonawane12&theme=react-dark&hide_border=true"/>
 </p>
-
----
-
-<h2 align="center">
-✨ Dream Big • Stay Consistent • Keep Coding ✨
-</h2>
 
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐
